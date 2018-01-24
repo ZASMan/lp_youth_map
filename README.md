@@ -8,13 +8,13 @@ After downloading zip, open the folder, and find the file 'index.html'. Right cl
 
 Open the file 'required_files'. You should see the following files:
 
-** Note: This will assume that jquery is already loaded **
+**Note: This will assume that jquery is already loaded**
 
-** Stylesheets: ** 
+**Stylesheets:** <br>
 1. jquery-jvectormap-2.0.3.css
 2. jquery-jvectormap.css
 3. jqvmap.css
-**  Javascripts: ** 
+**Javascripts:** <br>
 4. jquery.jvmap.js
 5. jquery.vmap.world.js
 6. youth_countries.js
@@ -28,7 +28,7 @@ Add the stylesheets to your index.html as so:
     <link href="css/jqvmap.css" rel="stylesheet">
 ```
 
-** Note: This assumes that your site has jquery loaded before these maps. **
+**Note: This assumes that your site has jquery loaded before these maps.**
 And the javascripts as so:
 ```
     <!-- Jquery vmap and youth country records -->
