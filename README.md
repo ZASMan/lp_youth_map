@@ -10,13 +10,9 @@ Open the file 'required_files'. You should see the following files:
 
 **Note: This will assume that jquery is already loaded**
 
-**Stylesheets:**
-<br>
 1. jquery-jvectormap-2.0.3.css
 2. jquery-jvectormap.css
 3. jqvmap.css
-<br>
-**Javascripts:** <br>
 4. jquery.jvmap.js
 5. jquery.vmap.world.js
 6. youth_countries.js
