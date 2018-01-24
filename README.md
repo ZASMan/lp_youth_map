@@ -10,14 +10,14 @@ Open the file 'required_files'. You should see the following files:
 
 ** Note: This will assume that jquery is already loaded **
 
-Stylesheets:
-jquery-jvectormap-2.0.3.css
-jquery-jvectormap.css
-jqvmap.css
-Javascripts:
-jquery.jvmap.js
-jquery.vmap.world.js
-youth_countries.js
+** Stylesheets: ** 
+1. jquery-jvectormap-2.0.3.css
+2. jquery-jvectormap.css
+3. jqvmap.css
+**  Javascripts: ** 
+4. jquery.jvmap.js
+5. jquery.vmap.world.js
+6. youth_countries.js
 
 Copy and paste the files into the appropriate folders. You can simply place them in your root directory, but its best practice to put them in a folder like 'cs' or 'js', respectively.
 
